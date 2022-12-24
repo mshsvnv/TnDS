@@ -1,2 +1,2 @@
 # TnDS_3_sem_BMSTU
-only labs
+only labs and nothing more
